@@ -1,4 +1,4 @@
-# Kimi-K2-from-scratch-NanoKimi-K2-
+# Kimi-K2-from-scratch-NanoKimi-K2
 
 ## Overview
 This repository implements **NanoKimi K2**, a transformer-based language model inspired by Kimi K2, built from scratch. NanoKimi K2 features a **Mixture of Experts (MoE)** architecture with 4 experts, a novel **Latent Attention** mechanism, and a custom **Muon optimizer**, designed to enhance performance in language modeling tasks. The model is trained on 10% of the TinyStories dataset using a SentencePiece tokenizer (BPE, vocab size 4096) for character-level tokenization. The implementation includes training, evaluation, and text generation with top-k sampling, along with an interactive prompt box for generating text in a Jupyter environment.
