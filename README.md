@@ -197,6 +197,18 @@ NanoKimi K2 is designed for efficient and high-performing language modeling with
 - Block Size: 64
 - Batch Size: 32
 
+  ### Output
+  <img width="1736" height="293" alt="image" src="https://github.com/user-attachments/assets/75e0f214-d64b-4018-860d-76e9684b0da4" />
+  Prompt: Once upon a time
+  
+  Generated: Once upon a time law digent fridge cupboard mon accidentally toldicy drive Snicesccer new enthusiasticikes knockredish mighty countself good piano scooter mov    engine little cap butterflies plan sandwuring raining valuable mor deadilli shone unboard cup So attract fighting mixed bossy meked engine
+
+  Prompt: Once upon a time
+  Generated: Once upon a time mommyleephat smile falling F Bl bite cont adventures bushes avoc grab wrote spell splash Joh trying pilind value jœYou already hotel accept      both wild borrowlc being picked pianob After listenedastickeep sorry neighbor Dave mulecast organizether grab facesatoio pant
+
+  Prompt: The owl
+  Generated: The owl carrot games worked wet drum deliver trashize solve inside mysterious anywhereittenioamp howob bul lots mommystairsmaz crab pony hook these loop tri ce   squ fier tun ing Mrs wat un Mommy offered tenven shelfophoneboard walksward fire adm Daveachedelly
+
 ## Usage
 1. **Prepare Environment**: Ensure dependencies are installed and the repository is cloned.
 2. **Run Notebook**: Open `NanoKimi.ipynb` in Jupyter Notebook or Google Colab, and execute all cells to:
